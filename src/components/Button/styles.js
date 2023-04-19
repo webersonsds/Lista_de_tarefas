@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 
 export const Button = styled.button`
-margin-top: 70px;
+margin-top: 20px;
 width: 342px;
 height: 74px;
 background:  ${props => props.isback ? 'transparent' : 'rgba(0, 0, 0, 0.8)'};

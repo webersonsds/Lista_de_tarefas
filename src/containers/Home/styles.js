@@ -8,10 +8,11 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 40px;
-height: 120vh;
+  gap: 20px;
+height: 100%;
   
 `;
+
 
 export const Imagem = styled.img`
 margin-top: 30px;
