@@ -5,5 +5,10 @@ Esse app e um aplicativo react.js que lista pessoas e suas idades e mostra na te
 
 
 
-https://user-images.githubusercontent.com/102109458/232232784-222a681d-0222-4b07-9e77-45abbb20ebfd.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/102109458/233225571-430d9c70-f549-4777-a5d7-0f090d68c564.mp4
 
